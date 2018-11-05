@@ -1,6 +1,6 @@
 <h1>Overview:</h1>
-A project that represnets all aspects of a sorted binary tree
-
+<h5>A project that represnets all aspects of a sorted binary tree</h5>
+<br>
 Project 02
 2720 Data Structures
 
